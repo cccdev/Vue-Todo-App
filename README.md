@@ -1,6 +1,12 @@
 # vue-todo-app
 
-This template should help get you started developing with Vue 3 in Vite.
+❤	一个小而美的Vue todo app
+
+⚡	使用 Vue3、Vite、Tailwind构建
+
+💡	灵感来自 [IndieDev](https://www.youtube.com/watch?v=dVamjruhfLM)
+
+📕	学到了Vue3 新特性以及体验到了 Tailwind css 的强大之处
 
 ## Recommended IDE Setup
 
